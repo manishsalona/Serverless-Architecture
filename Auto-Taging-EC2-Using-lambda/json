@@ -1,0 +1,12 @@
+{
+  "instance-id": [
+    "i-04d6bb065a0829e4b",
+    "i-0d54bd718e7e85d4f"
+  ],
+  "tags": [
+    {
+      "Key": "Name",
+      "Value": "EC2"
+    }
+  ]
+}
